@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadcopter_Simulator", "Quadcopter Simulator\Quadcopter_Simulator\Quadcopter_Simulator.csproj", "{70DC0154-F541-4E2F-9471-6E3F28B812DA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Quadcopter_SimulatorContent", "Quadcopter Simulator\Quadcopter_SimulatorContent\Quadcopter_SimulatorContent.contentproj", "{37437F96-CBE1-402C-8B48-A7F1BACAB718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DC0154-F541-4E2F-9471-6E3F28B812DA}.Debug|x86.ActiveCfg = Debug|x86
+		{70DC0154-F541-4E2F-9471-6E3F28B812DA}.Debug|x86.Build.0 = Debug|x86
+		{70DC0154-F541-4E2F-9471-6E3F28B812DA}.Release|x86.ActiveCfg = Release|x86
+		{70DC0154-F541-4E2F-9471-6E3F28B812DA}.Release|x86.Build.0 = Release|x86
+		{37437F96-CBE1-402C-8B48-A7F1BACAB718}.Debug|x86.ActiveCfg = Debug|x86
+		{37437F96-CBE1-402C-8B48-A7F1BACAB718}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

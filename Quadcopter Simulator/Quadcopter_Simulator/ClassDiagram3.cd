@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quadcopter_Simulator.Forms.data_chart_frame" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAANAAAAAGAAAAIA4BCAAAACAEAACAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Forms\data_chart_frame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Forms.environment_select_form" Collapsed="true">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFCYAAAAACAAAEgAIACAAAACQAAEAAACEAAAARAACAA=</HashCode>
+      <FileName>Forms\environment_select_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Forms.map_form" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AHAIAgAAECAAAAAAIACAAAAiQAgMAAAAAEAAAQAAbAE=</HashCode>
+      <FileName>Forms\map_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Forms.pausing_form" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAgCAAAAEAoACAAAACAAAAAAAAAAEAgAAhCAA=</HashCode>
+      <FileName>Forms\pausing_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Forms.select_mode_form" Collapsed="true">
+    <Position X="9" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAIACAAAACQAAEAAAAAAAEAAAACAA=</HashCode>
+      <FileName>Forms\select_mode_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.QuadcopterSimulator" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgEIACAAAACAAAAAAAAAEAAAAAACAA=</HashCode>
+      <FileName>Forms\QuadcopterSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.setting_form" Collapsed="true">
+    <Position X="16" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gFqAACGqBCCUYwhQMAGAICIunHKBVABJhEBCA2iJAAA=</HashCode>
+      <FileName>Forms\setting_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.BulletModel" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Graphics\BulletModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Camera" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Graphics\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Game1" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAGUACAoAACwAAAIgAAAAAAAAAABggJAABADDAAIQ=</HashCode>
+      <FileName>Graphics\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Input" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GFAAQBCAAAAAAAFAACEAIBKAAQAgCAIAAABgEHUAIgA=</HashCode>
+      <FileName>Graphics\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Program" Collapsed="true">
+    <Position X="16.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAABAAAAAA=</HashCode>
+      <FileName>Graphics\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.QuadCopterModel" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAABAAACAAAAAAIAAA=</HashCode>
+      <FileName>Graphics\QuadCopterModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Sky" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQABAAAAAAIAAAAAIAAAAAARgAAAAAAIAAAQCAA=</HashCode>
+      <FileName>Graphics\Sky.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Terrain" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAFQAwAAAAAAAAAEABAAQIAABAQAAgCAAACAAAIIBA=</HashCode>
+      <FileName>Graphics\Terrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Tree" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Graphics\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Water" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAEAAUgAAQAAFAAAACAAQAAAQAAAAAAAACAAAA=</HashCode>
+      <FileName>Graphics\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.trajectory_tracking" Collapsed="true">
+    <Position X="9.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAgAAAAAAAIAAAAAAAAAAgAAAAAQAAAAAAA=</HashCode>
+      <FileName>Physics\stabilizer\trajectory_tracking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Graphics.Particle_System.ParticleSystem" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQASAAAAAAACwBgAAgAAKAAAAAQBgQAAABAAEAABAg=</HashCode>
+      <FileName>Graphics\Particle System\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadcopter_Simulator.Graphics.Particle_System.ParticleSystemTimer" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIBAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Graphics\Particle System\ParticleSystemTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Physics.Bullet" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAABBCAAIACBAAAAAAAAAIAAAAAAAAATIBAAEACA=</HashCode>
+      <FileName>Physics\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Physics.ringBuffer" Collapsed="true">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAQAABAAgAAAEAAAABAAAAgAAgA=</HashCode>
+      <FileName>Physics\ringBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.config" Collapsed="true">
+    <Position X="9" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ct6jKgyf5Y0xqC4YJUoSf4LcH9gdtCRdxBjV6Coq8Kg=</HashCode>
+      <FileName>Physics\config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.diff_equation" Collapsed="true">
+    <Position X="12.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAggAIACAAGABAAEAABAAAQAAFAAAAAAAAA=</HashCode>
+      <FileName>Physics\diff_equations\diff_equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.esc_motor" Collapsed="true">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgA=</HashCode>
+      <FileName>Physics\esc_motor\esc_motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.Quadcopter" Collapsed="true">
+    <Position X="14.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wCNAAUDsKEgKADSAAwCAxIAgiAAMQQEARBpgYAEBuAI=</HashCode>
+      <FileName>Physics\Quadcopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.receiver" Collapsed="true">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAQAAAABFAAAIAAAAAAAAAAAIAggABAAAA=</HashCode>
+      <FileName>Physics\reciever\receiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.Accelerometer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAQAAAAAAAAgYgAAAACAAEAAAAAAQAAA=</HashCode>
+      <FileName>Physics\sensor\Accelerometer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.Barometer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEQAAAAAAAAgIAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Physics\sensor\Barometer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.Gyroscope" Collapsed="true">
+    <Position X="7.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAQAAAAAAAAgYgAAAACAAEAAAAAAQAAA=</HashCode>
+      <FileName>Physics\sensor\Gyroscope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.Magnetometer" Collapsed="true">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQgAAAAAAAgYgAAAACAAEIAAAAAQAAA=</HashCode>
+      <FileName>Physics\sensor\Magnetometer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.complementaryFilter" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAACAEAAAAAAAAAAAAAAAAAAAAAAAiAAAAIgAAgCA=</HashCode>
+      <FileName>Physics\sensor fusion\complementaryFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.sensorFusion" Collapsed="true">
+    <Position X="11.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BaABEIAGQAJgSAYAOABEAGiCggAJQAoAAAggAgEFgAI=</HashCode>
+      <FileName>Physics\sensor fusion\sensorFusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.PID" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAAMAASABAAAAAAAAAAAAAAAAAAAAAGAAgBACAA=</HashCode>
+      <FileName>Physics\stabilizer\PID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuadcopterPhysics.Quadcopter.stabilizer" Collapsed="true">
+    <Position X="4.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAQgAAggACAAAgAAAEAAAACAAACAAAQAABAABgAAA=</HashCode>
+      <FileName>Physics\stabilizer\stabilizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Quadcopter_Simulator.VertexPositionNormalTexture" Collapsed="true">
+    <Position X="11.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAgAAAAAAIAAABAAAAgAAAAAA=</HashCode>
+      <FileName>Graphics\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Quadcopter_Simulator.VertexMultitextured" Collapsed="true">
+    <Position X="13.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAJAAgAAAAoAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Quadcopter_Simulator.Graphics.Particle_System.ParticleVertex" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAIBAAACAgAAABIABAAQABAIAAAAAAAgA=</HashCode>
+      <FileName>Graphics\Particle System\ParticleVertex.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.362" Collapsed="true" />
+  </Struct>
+  <Enum Name="QuadcopterPhysics.QS_ESC_DUTY_CYCLE_THRUST_RELATION" Collapsed="true">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\config.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuadcopterPhysics.QS_FRAME_MODE" Collapsed="true">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\config.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuadcopterPhysics.QS_CONTROLLER_TYPE" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\config.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuadcopterPhysics.Quadcopter.stable_flight_mode" Collapsed="true">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAABAEAAAI=</HashCode>
+      <FileName>Physics\stabilizer\stabilizer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

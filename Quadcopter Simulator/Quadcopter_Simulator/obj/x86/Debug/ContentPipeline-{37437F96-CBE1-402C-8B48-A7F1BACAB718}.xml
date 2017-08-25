@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bbEffect.fx</Source>
+      <Name>bbEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\bbEffect.xnb</Output>
+      <Time>2017-01-06T12:57:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\effects.xnb</Output>
+      <Time>2017-01-06T15:49:49+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2017-01-31T23:17:56.443688+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyEffect.fx</Source>
+      <Name>SkyEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\SkyEffect.xnb</Output>
+      <Time>2017-02-05T18:07:49.339429+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.dds</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2017-01-06T12:57:09+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rock.dds</Source>
+      <Name>rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\rock.xnb</Output>
+      <Time>2017-01-06T12:57:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sand.dds</Source>
+      <Name>sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\sand.xnb</Output>
+      <Time>2017-01-06T12:57:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>snow.dds</Source>
+      <Name>snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\snow.xnb</Output>
+      <Time>2017-01-06T12:57:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>waterbump.dds</Source>
+      <Name>waterbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\waterbump.xnb</Output>
+      <Time>2017-01-06T12:57:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudMap.jpg</Source>
+      <Name>cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\cloudMap.xnb</Output>
+      <Time>2017-01-10T21:56:49+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Mountains.jpg</Source>
+      <Name>Mountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\Mountains.xnb</Output>
+      <Time>2017-01-28T22:36:40.3304241+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2017-01-31T23:17:56.4366693+02:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2017-01-31T23:17:56.447699+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainHeightmap.jpg</Source>
+      <Name>TerrainHeightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\TerrainHeightmap.xnb</Output>
+      <Time>2017-02-05T23:11:08.0021172+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBoxTex.dds</Source>
+      <Name>SkyBoxTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\SkyBoxTex.xnb</Output>
+      <Time>2017-02-03T20:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BigTerrainHeightmap.jpg</Source>
+      <Name>BigTerrainHeightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\BigTerrainHeightmap.xnb</Output>
+      <Time>2017-02-05T23:13:59.7124728+02:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2017-02-18T20:08:05.803162+02:00</Time>
+    </Item>
+    <Item>
+      <Source>flag1.fbx</Source>
+      <Name>flag1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\flag1.xnb</Output>
+      <Time>2017-02-18T13:05:06.8645706+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\flag1_0.xml</Key>
+        <Value>2017-04-19T15:05:49.0301756+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\flag\syria_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>drone.fbx</Source>
+      <Name>drone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\drone.xnb</Output>
+      <Time>2017-02-18T19:56:31.739117+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\drone_0.xml</Key>
+        <Value>2017-04-19T15:05:50.0716843+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\sad_drone_diffuse_0.xnb</Request>
+      <Request>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\drone\drone_texture5_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>baseball.fbx</Source>
+      <Name>baseball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\baseball.xnb</Output>
+      <Time>2017-01-30T00:41:31.737459+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\baseball_0.xml</Key>
+        <Value>2017-04-19T15:05:52.6142314+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>bouncing-ball.fbx</Source>
+      <Name>bouncing-ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\bouncing-ball.xnb</Output>
+      <Time>2017-02-16T14:24:07.0711573+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\bouncing-ball_0.xml</Key>
+        <Value>2017-04-19T15:05:53.001789+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>red-ball.fbx</Source>
+      <Name>red-ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\red-ball.xnb</Output>
+      <Time>2017-02-16T20:33:21.4508598+02:00</Time>
+      <Dependency>
+        <Key>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\red-ball_0.xml</Key>
+        <Value>2017-04-19T15:05:53.2199679+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\ball\ball_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>flag1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\flag1_0.xml</Output>
+      <Time>2017-02-18T13:05:06.8645706+02:00</Time>
+    </Item>
+    <Item>
+      <Source>texture\flag\syria.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\flag\syria_0.xnb</Output>
+      <Time>2017-01-16T23:37:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>drone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\drone_0.xml</Output>
+      <Time>2017-02-18T19:56:31.739117+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sad_drone_diffuse.dds</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\sad_drone_diffuse_0.xnb</Output>
+      <Time>2013-02-16T21:31:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>texture\drone\drone_texture5.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\drone\drone_texture5_0.xnb</Output>
+      <Time>2017-02-18T13:03:27.145486+02:00</Time>
+    </Item>
+    <Item>
+      <Source>baseball.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\baseball_0.xml</Output>
+      <Time>2017-01-30T00:41:31.737459+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bouncing-ball.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\bouncing-ball_0.xml</Output>
+      <Time>2017-02-16T14:24:07.0711573+02:00</Time>
+    </Item>
+    <Item>
+      <Source>red-ball.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\red-ball_0.xml</Output>
+      <Time>2017-02-16T20:33:21.4508598+02:00</Time>
+    </Item>
+    <Item>
+      <Source>texture\ball\ball.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\texture\ball\ball_0.xnb</Output>
+      <Time>2017-02-16T20:32:02.9646635+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{37437F96-CBE1-402C-8B48-A7F1BACAB718}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_SimulatorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mohamed Khair\Dropbox\Triple M Team\_Projects\مشاريع السنة الثالثة\الفصل الأول\Scientific Calculation\simulator\_ONLINE_project\Quadcopter Simulator\Quadcopter_Simulator\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-11-26T18:02:09.5178738+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
