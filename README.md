@@ -24,5 +24,8 @@ $ git clone https://github.com/Dimashky/Quadcopter-Simulator.git
 * **Mohamed Khair Dimashky** - [Dimashky](https://github.com/Dimashky)
 * **Maher Al-Kassir**
 * **Majd Al-Ajlani**
+## Refrences:
+* [Project Report's (in Arabic)](https://drive.google.com/file/d/0B9g7M89ByGNfaG1nSi10eGhqR28/view)
+* [Modelling and control of quadcopter, Aalto University 2011](http://sal.aalto.fi/publications/pdf-files/eluu11_public.pdf)
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
